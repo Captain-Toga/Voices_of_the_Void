@@ -1,0 +1,51 @@
+{
+  "bounds": [
+    -44.5,
+    27.5,
+    79.5,
+    0.5,
+    79.5,
+    -0.5,
+    -44.5,
+    -27.5
+  ],
+  "builtInMods": [
+    "phasefield",
+	"hiressensors",
+    "surveying_equipment",
+    "solar_shielding"
+  ],
+  "builtInWings": [],
+  "center": [
+    32,
+    47
+  ],
+  "collisionRadius": 99.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 54.5,
+      "location": [
+        -23.5,
+        -0
+      ],
+      "style": "HIGH_TECH",
+      "width": 30
+    }
+  ],
+  "height": 128,
+  "hullId": "st_araril_warparrow",
+  "hullName": "Warp Arrow",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 86.5,
+  "spriteName": "graphics/ships/st_araril_warparrow.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [],
+  "width": 64
+}

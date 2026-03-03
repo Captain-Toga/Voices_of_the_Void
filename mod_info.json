@@ -1,0 +1,8 @@
+{
+	"id":"STVoicesOfTheVoid",
+	"name":"Voices of the Void",
+	"author":"Shigeo Toga",
+	"version":{ "major": 1, "minor": 0, "patch": 0 },
+	"description":"The Ariral Warparrow and portraits of Dr.Kel and Argemia Armuntela, based on the game Voices of the Void",
+	"gameVersion":"0.98a-RC8"
+}

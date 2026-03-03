@@ -1,0 +1,20 @@
+{
+	"flags":[
+		{
+			"logo":"graphics/faction/flags/in_shrimp_we_trust.png",
+			"crest":"graphics/faction/flags/in_shrimp_we_trust_crest.png",
+		},
+		{
+			"logo":"graphics/faction/flags/into_the_void.png",
+			"crest":"graphics/faction/flags/into_the_void_crest.png",
+		}
+	],
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/drkel.png"
+		],
+		"standard_female":[
+			"graphics/portraits/argemia_armuntela.png"
+		]
+	},
+},				
